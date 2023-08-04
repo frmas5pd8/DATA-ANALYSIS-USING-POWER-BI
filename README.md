@@ -4,7 +4,8 @@ The owner of OMNI Home Store wants us to help them create a dashboard to track a
 
 # Tools :
 * Power BI
-* Schema : ![OMNI HOME STORE SCHEMA](https://github.com/frmas5pd8/OMNI-HOME-STORE-ECOMMERCE-SALES-DASHBOARD/assets/98344555/32d86f58-a0f4-4ff1-aaeb-8cf02f29b02c)
+* Schema :
+![OMNI HOME STORE SCHEMA](https://github.com/frmas5pd8/OMNI-HOME-STORE-ECOMMERCE-SALES-DASHBOARD/assets/98344555/32d86f58-a0f4-4ff1-aaeb-8cf02f29b02c)
 
   
 # Dataset Description:
