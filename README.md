@@ -24,3 +24,8 @@ The owner of OMNI Home Store wants us to help them create a dashboard to track a
 3) Created connections between tables, joined the tables, calculated to manipulate data, and enabled used-driven parameters for visualizations.
 4) Created new columns AOV using the DAX function for a clear image of the average price per product.
 5) Used different types of customized visualizations in the form of bar charts, donut charts, clustered bar charts, tiles, and slicers.
+
+# Dashoard Image
+![OMNI_HOME_STORE_DASHBOARD](https://github.com/frmas5pd8/OMNI-ECOMMERCE-SALES-DASHBOARD/assets/98344555/c55fb4d0-cb07-4d5e-a714-6ce3e0481c89)
+
+
