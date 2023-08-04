@@ -15,8 +15,8 @@ The owner of OMNI Home Store wants us to help them create a dashboard to track a
 * File Type: CSV
 
 * The variables in the datasets are:
-* Table1: Orders.csv order ID, Amount, Profit, Quantity, Category, Sub-Category, Payment-mode
-* Table2: Oredrs.csv order Id, Order Date, Customer Name, City, State
+* Table1: Details.csv order ID, Amount, Profit, Quantity, Category, Sub-Category, Payment-mode
+* Table2: Orders.csv order Id, Order Date, Customer Name, City, State
 
 # Insights :
 1) Maximum profit earned by Maharashtra State followed by Madhya Pradesh.
