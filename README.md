@@ -1,6 +1,7 @@
 # OMNI HOME STORE ECOMMERCE SALES DASHBOARD
+
 # Project Objective : 
-The owner of OMNI Home Store wants us to help them create a dashboard to track and analyze their online sales across India through Power BI
+The owner of OMNI Home Store wants us to help them create a dashboard to track and analyze their online sales across India
 
 # Tools :
 * Power BI
